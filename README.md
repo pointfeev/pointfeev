@@ -24,4 +24,4 @@
 
 || Modding Utilities: [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550) |
 |-|-|
-| [AutomaticSubModuleXML](https://github.com/pointfeev/AutomaticSubModuleXML) |  Mount & Blade II: Bannerlord csproj target task for automatically creating and/or updating the SubModule.xml file after builds.  |
+| [AutomaticSubModuleXML](https://github.com/pointfeev/AutomaticSubModuleXML) |  Mount & Blade II: Bannerlord msbuild task for automatically creating and/or updating the SubModule.xml file after builds.  |
