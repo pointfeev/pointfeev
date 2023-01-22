@@ -1,6 +1,6 @@
 || Main Projects |
 |-|-|
-| [CreamInstaller](https://github.com/pointfeev/CreamInstaller) | Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers. 8 |
+| [CreamInstaller](https://github.com/pointfeev/CreamInstaller) | Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers. |
 
 || Mods: [RimWorld](https://store.steampowered.com/app/294100) |
 |-|-|
