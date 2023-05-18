@@ -11,7 +11,7 @@
 |-|-|
 | [Pawns Use Fire Extinguishers](https://github.com/pointfeev/FireExtinguisher) | Allows fire extinguishers to be used for firefighting automatically. If a pawn doesn't have a fire extinguisher or a piece of fire can't be accessed with a fire extinguisher, pawns will go back to default vanilla behavior of beating out fires. |
 | [Advanced Storage Filters](https://github.com/pointfeev/StorageFilters) | Adds the ability to add extra advanced and configurable filters to storage areas. It also allows filters to be saved and loaded between multiple saves. |
-| [Automatic Bed Reassignment](https://github.com/pointfeev/BedAssign) | Automatically reassigns pawns' beds when pawns are off-map, sharing beds with non-partners, separated from their most-loved partner, suffering a mood penalty from a bedroom-specific trait (jealous, greedy, ascetic), or there are empty beds with better stats for the pawn. |
+| [Automatic Bed Reassignment](https://github.com/pointfeev/BedAssign) | Automatically reassigns pawns' beds when pawns are sharing beds with non-partners, separated from their most-loved partner, suffering a mood penalty from a bedroom-specific trait (jealous, greedy, ascetic), or there are empty beds with better stats for the pawn. |
 
 || Modding Utilities: [RimWorld](https://store.steampowered.com/app/294100) |
 |-|-|
