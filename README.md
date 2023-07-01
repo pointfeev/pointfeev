@@ -2,7 +2,7 @@
 |-|-|
 | [CreamInstaller](https://github.com/pointfeev/CreamInstaller) | Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers. |
 
-|| Scripts: [Tampermonkey](https://www.tampermonkey.net/) |
+|| Scripts: [Violentmonkey](https://violentmonkey.github.io) |
 |-|-|
 | [Steam Collection Manager](https://gist.github.com/pointfeev/31618a04ab2f754158ca7d950e1dd35c) | Adds buttons to collections related to the mass removal, addition, and sorting of items. |
 | [Nexus Endorsement Manager](https://gist.github.com/pointfeev/aa70c3d600698df40141c3a79ad9bf59) | Adds buttons to the "My Nexus account" screen related to the mass endorsement and abstainment from endorsement of mods. |
