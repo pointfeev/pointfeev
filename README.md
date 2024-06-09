@@ -25,3 +25,8 @@
 || Modding Utilities: [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550) |
 |-|-|
 | [AutomaticSubModuleXML](https://github.com/pointfeev/AutomaticSubModuleXML) |  Mount & Blade II: Bannerlord msbuild task for automatically creating and/or updating the SubModule.xml file after builds.  |
+
+|| Side Projects |
+|-|-|
+| [Chess Laravel](https://github.com/pointfeev/ChessLaravel) |   Set up to use a Laravel backend and a Vue frontend, glued together with Inertia and compiled by Vite. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun).  |
+| [Chess Java](https://github.com/pointfeev/ChessJava) |  Set up to use Java with a Swing GUI. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun).  |
