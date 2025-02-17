@@ -33,5 +33,5 @@
 
 || (Noteworthy) School Projects |
 |-|-|
-| [Grade Management System](https://github.com/pointfeev/GradeManagementSystem) | CSC 440 Team & Individual Project |
+| [Grade Management System](https://github.com/pointfeev/GradeManagementSystem) | CSC 440 Team & Individual Project: An interface to perform basic CRUD operations on student grade information stored in the database, import Excel files filled with student grade information into the database, and print a basic transcript for a student utilizing their grade information stored in the database. |
 | [Tic-Tac-Toe Protocol](https://github.com/pointfeev/TicTacToeProtocol) | CSC 545 Individual Project: A terminal-based Tic-Tac-Toe game with a server and clients communicating via TCP/IP sockets. |
