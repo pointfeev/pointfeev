@@ -15,7 +15,7 @@
 
 || Modding Utilities: [RimWorld](https://store.steampowered.com/app/294100) |
 |-|-|
-| [CompatUtils](https://github.com/pointfeev/CompatUtils) |  Provides many common compatibility methods, anywhere from checking if another mod is active to getting a consistent method from another mod.  |
+| [CompatUtils](https://github.com/pointfeev/CompatUtils) | Provides many common compatibility methods, anywhere from checking if another mod is active to getting a consistent method from another mod. |
 
 || Mods: [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550) |
 |-|-|
@@ -24,9 +24,14 @@
 
 || Modding Utilities: [Mount & Blade II: Bannerlord](https://store.steampowered.com/app/261550) |
 |-|-|
-| [AutomaticSubModuleXML](https://github.com/pointfeev/AutomaticSubModuleXML) |  Mount & Blade II: Bannerlord msbuild task for automatically creating and/or updating the SubModule.xml file after builds.  |
+| [AutomaticSubModuleXML](https://github.com/pointfeev/AutomaticSubModuleXML) | Mount & Blade II: Bannerlord msbuild task for automatically creating and/or updating the SubModule.xml file after builds. |
 
 || Side Projects |
 |-|-|
-| [Chess Laravel](https://github.com/pointfeev/ChessLaravel) |   Set up to use a Laravel backend and a Vue frontend, glued together with Inertia and compiled by Vite. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun).  |
-| [Chess Java](https://github.com/pointfeev/ChessJava) |  Set up to use Java with a Swing GUI. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun).  |
+| [Chess Laravel](https://github.com/pointfeev/ChessLaravel) | Set up to use a Laravel backend and a Vue frontend, glued together with Inertia and compiled by Vite. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun). |
+| [Chess Java](https://github.com/pointfeev/ChessJava) | Set up to use Java with a Swing GUI. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun). |
+
+|| (Noteworthy) School Projects |
+|-|-|
+| [Grade Management System](https://github.com/pointfeev/GradeManagementSystem) | CSC 440 Team & Individual Project |
+| [Tic-Tac-Toe Protocol](https://github.com/pointfeev/TicTacToeProtocol) | CSC 545 Individual Project: A terminal-based Tic-Tac-Toe game with a server and clients communicating via TCP/IP sockets. |
