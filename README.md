@@ -30,7 +30,7 @@
 |-|-|
 | [Chess Laravel](https://github.com/pointfeev/ChessLaravel) | Set up to use a Laravel backend and a Vue frontend, glued together with Inertia and compiled by Vite. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun). |
 | [Chess Java](https://github.com/pointfeev/ChessJava) | Set up to use Java with a Swing GUI. This is not meant to be a fully functional and proper Chess game application; at least for the time being, this is just an application developed for learning and testing purposes (and for fun). |
-| [Chat Kotlin](https://github.com/pointfeev/ChatKotlin) | A terminal-based chat application with a server and clients communicating via TCP/IP sockets; developed for the purpose of learning and testing out Kotlin and Gradle (and for fun). |
+| [Chat Kotlin](https://github.com/pointfeev/ChatKotlin) | A chat application with a server and clients communicating via TCP/IP sockets; developed for the purpose of learning and testing out Kotlin and Gradle (and for fun). |
 
 || (Noteworthy) School Projects |
 |-|-|
